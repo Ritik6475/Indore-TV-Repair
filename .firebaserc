@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "indoretvrepairservices-96a79"
+  },
+  "targets": {
+    "indoretvrepairservices-96a79": {
+      "hosting": {
+        "main": [
+          "indoretvrepairservices-96a79"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
